@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://barringtonbrook.github.io/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/tags/example/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/secondexamplepost/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/tags/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/tags/yet-another-example/</loc>
+    <lastmod>2022-07-13T15:53:53+01:00</lastmod>
+  </url><url>
     <loc>https://barringtonbrook.github.io/tags/another-example/</loc>
     <lastmod>2022-07-13T15:20:12+01:00</lastmod>
   </url><url>
-    <loc>https://barringtonbrook.github.io/</loc>
-    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
-  </url><url>
-    <loc>https://barringtonbrook.github.io/tags/example/</loc>
-    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
-  </url><url>
     <loc>https://barringtonbrook.github.io/posts/examplepost/</loc>
-    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
-  </url><url>
-    <loc>https://barringtonbrook.github.io/posts/</loc>
-    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
-  </url><url>
-    <loc>https://barringtonbrook.github.io/tags/</loc>
     <lastmod>2022-07-13T15:20:12+01:00</lastmod>
   </url><url>
     <loc>https://barringtonbrook.github.io/about/</loc>

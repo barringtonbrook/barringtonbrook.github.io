@@ -6,7 +6,16 @@
     <description>Recent content on Barrington Brook: Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 15:20:12 +0100</lastBuildDate><atom:link href="https://barringtonbrook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 15:53:53 +0100</lastBuildDate><atom:link href="https://barringtonbrook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Example Post</title>
+      <link>https://barringtonbrook.github.io/posts/secondexamplepost/</link>
+      <pubDate>Wed, 13 Jul 2022 15:53:53 +0100</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/secondexamplepost/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Example Post</title>
       <link>https://barringtonbrook.github.io/posts/examplepost/</link>
