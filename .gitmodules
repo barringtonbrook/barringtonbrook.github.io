@@ -1,0 +1,3 @@
+[submodule "themes/bbpaper"]
+	path = themes/bbpaper
+	url = https://github.com/barringtonbrook/hugo-paper

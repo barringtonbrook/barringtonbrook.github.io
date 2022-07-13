@@ -1,0 +1,20 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Barrington Brook: Portfolio'
+
+theme="bbpaper"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+
+[[menu.main]]
+name = "KSBs"
+url = "/ksbs/"
+
+

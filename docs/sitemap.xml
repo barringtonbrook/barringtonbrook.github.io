@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://barringtonbrook.github.io/</loc>
+    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/examplepost/</loc>
+    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/</loc>
+    <lastmod>2022-07-13T15:20:12+01:00</lastmod>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/about/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/categories/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/ksbs/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/tags/</loc>
+  </url>
+</urlset>
