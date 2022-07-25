@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>K21 on Barrington Brook: Portfolio</title>
-    <link>https://barringtonbrook.github.io/tags/k21/</link>
-    <description>Recent content in K21 on Barrington Brook: Portfolio</description>
+    <title>S17 on Barrington Brook: Portfolio</title>
+    <link>https://barringtonbrook.github.io/tags/s17/</link>
+    <description>Recent content in S17 on Barrington Brook: Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://barringtonbrook.github.io/tags/k21/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://barringtonbrook.github.io/tags/s17/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decomissioning AWS services</title>
       <link>https://barringtonbrook.github.io/posts/decomissioning_resources/</link>
