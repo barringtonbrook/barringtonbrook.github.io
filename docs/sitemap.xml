@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://barringtonbrook.github.io/about/</loc>
+    <loc>https://barringtonbrook.github.io/ksbs/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/tags/another-example/</loc>
+    <loc>https://barringtonbrook.github.io/about/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/</loc>
   </url><url>
@@ -14,20 +14,20 @@
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/presentation/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/tags/example/</loc>
+    <loc>https://barringtonbrook.github.io/tags/k13/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/ksbs/</loc>
+    <loc>https://barringtonbrook.github.io/tags/k20/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/posts/hack-3095/</loc>
+    <loc>https://barringtonbrook.github.io/tags/k21/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/hack-3095/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/hack-4112/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/uccli/</loc>
-  </url><url>
-    <loc>https://barringtonbrook.github.io/tags/yet-another-example/</loc>
   </url>
 </urlset>
