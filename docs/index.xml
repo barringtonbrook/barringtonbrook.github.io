@@ -21,8 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/posts/decomissioning_resources/</guid>
-      <description>produces this
-this is another thing</description>
+      <description>produces this</description>
     </item>
     
     <item>
@@ -31,7 +30,7 @@ this is another thing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/posts/presentation/</guid>
-      <description></description>
+      <description>under construction</description>
     </item>
     
     <item>
@@ -41,24 +40,6 @@ this is another thing</description>
       
       <guid>https://barringtonbrook.github.io/ksbs/</guid>
       <description>Knowledge K1 Continuous Integration - the benefits of frequent merging of code, the creation of build artefacts and ensuring all tests pass, with automation throughout - including common tooling. K2 The principles of distributed Source Control, including how to exploit the features of the tool, such as branching. K3 How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation.</description>
-    </item>
-    
-    <item>
-      <title>Refactoring Terraform</title>
-      <link>https://barringtonbrook.github.io/posts/hack-3095/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/hack-3095/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resolving truncated JSON events in Splunk</title>
-      <link>https://barringtonbrook.github.io/posts/hack-4112/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/hack-4112/</guid>
-      <description></description>
     </item>
     
     <item>
