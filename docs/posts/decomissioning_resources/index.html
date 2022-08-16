@@ -21,7 +21,9 @@
 
   
   
-  <meta name="description" content="produces this" />
+  <meta name="description" content="produces this
+Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
+After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them." />
   <meta name="author" content="" />
   
 
@@ -67,7 +69,9 @@
   
   
   <meta property="og:title" content="Decomissioning AWS services" />
-<meta property="og:description" content="produces this" />
+<meta property="og:description" content="produces this
+Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
+After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://barringtonbrook.github.io/posts/decomissioning_resources/" /><meta property="article:section" content="posts" />
 
@@ -76,14 +80,18 @@
 
   
   <meta itemprop="name" content="Decomissioning AWS services">
-<meta itemprop="description" content="produces this">
+<meta itemprop="description" content="produces this
+Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
+After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them.">
 
-<meta itemprop="wordCount" content="2">
+<meta itemprop="wordCount" content="175">
 <meta itemprop="keywords" content="K7,K13,K20,K21,S17,S18,S21," />
   
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Decomissioning AWS services"/>
-<meta name="twitter:description" content="produces this"/>
+<meta name="twitter:description" content="produces this
+Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
+After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them."/>
 
   
   
@@ -176,6 +184,16 @@
   <section class="post-content"><p><img src="../decomissioning_resources/carbon.png" alt="."></p>
 <p>produces this</p>
 <p><img src="../decomissioning_resources/carbon-1.png" alt="."></p>
+<h2 id="introduction">Introduction</h2>
+<p>At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.</p>
+<p>After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure.
+Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them.
+My line manager suggested that I look into using terraform to accomplish this as it would be self documenting and repeatable.
+This seemed reasonable so I started work on a golang program that could generate hcl code using the <code>hclwrite</code> and <code>hclsyntax</code> and libraries</p>
+<h2 id="architecture">Architecture</h2>
+<p>When run tfmigrate creates a list of <code>aws_lambda_invocation</code> blocks.
+The ready made terraform creates buckets accross two specified accounts as well as a lambda capable of assuming roles in both.
+then when terraform apply is run on the file of invocation blocks, the migrations are taken care of.</p>
 </section>
 
   
