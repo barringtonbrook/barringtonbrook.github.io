@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Barrington Brook: Portfolio</title>
-    <link>https://barringtonbrook.github.io/posts/</link>
-    <description>Recent content in Posts on Barrington Brook: Portfolio</description>
+    <title>K19 on Barrington Brook: Portfolio</title>
+    <link>https://barringtonbrook.github.io/tags/k19/</link>
+    <description>Recent content in K19 on Barrington Brook: Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://barringtonbrook.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://barringtonbrook.github.io/tags/k19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps Presentation for Porfolio team</title>
       <link>https://barringtonbrook.github.io/posts/presentation/</link>

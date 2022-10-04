@@ -1,0 +1,69 @@
+{{ define "main" }}
+<style>
+  .boxed {
+    border: 1px solid gray;
+    padding: 17px;
+    margin: 25px;
+    border-radius: 25px;
+    box-shadow: 2px 7px #888888;
+    transition: transform 0.7s;
+  }
+
+  .boxed:hover {
+    transform: scale(1.05) translateX(-50px);
+    background-color: #ffe655;
+
+  }
+
+  .dark .boxed:hover {
+    background-color: #d9b800;
+  }
+
+  .dark .post-tags a {
+    color: rgb(241, 241, 241);
+  }
+
+  .dark .post-tags a {
+    background-color: rgba(var(--dark), .09)
+  }
+
+  .post-tags a:hover {
+    transform: scale(1.1)
+  }
+</style>
+<article class="post-single">
+  <header class="post-title">
+    <p>
+      {{ if or .Params.Author site.Author.name }}
+      <span>{{ .Params.Author | default site.Author.name }}</span>
+      {{ end }}
+    </p>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <!-- Post Tags -->
+  {{ if .Params.tags }}
+  <footer class="post-tags">
+    {{ range .Params.tags }} {{ $href := print (absURL "tags/") (urlize .) }}
+    <a href="{{ $href }}">{{ . }}</a>
+    {{ end }}
+  </footer>
+  {{ end }}
+  <section class="post-content">{{ .Content }}</section>
+
+
+
+
+  <!-- Disqus -->
+  {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
+  <div id="disqus_thread" class="post-comments"></div>
+  <script>
+    var disqusShortname = '{{ site.DisqusShortname }}';
+    var script = document.createElement('script');
+    script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
+    script.setAttribute('data-timestamp', +new Date());
+    document.head.appendChild(script);
+  </script>
+  {{ end }}
+</article>
+
+{{ end }}
