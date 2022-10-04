@@ -27,16 +27,5 @@ After a discussion with the tech lead we decided to use a certain set of buckets
 The Structure of the Presentation From the beginning I suggested that it might be useful to divide our presentation into two parts. As DevOps practices are largely the result of and reaction to prior working practices in manging IT infrastructure and Ops, I reasoned that our introduction to these practices would not make sense without the added context of what they were replacing.</description>
     </item>
     
-    <item>
-      <title>UCCLI</title>
-      <link>https://barringtonbrook.github.io/posts/uccli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/uccli/</guid>
-      <description>Introduction UCCLI is framework for the distribution and execution of versioned tooling and processes.
-The main problems it seeks to solve are as follows.
-New starters having to install n amounts of software in their laptop setup Established team members having to each maintain a wide set of tooling on their own machines, and be consious about falling out of versions of tooling to that of their peers Team members coodirdinating the upgrade of tooling on their machines amongst themselves and other teams Team members maintaing a common set of aliases on their machines The tooling on developer machines being a different version or missing from CI/CD workers There not being a standard way in which to perform a specific action </description>
-    </item>
-    
   </channel>
 </rss>
