@@ -1,0 +1,19 @@
+/* Place custom css here. */
+
+.post-content {
+  width: 150%;
+  margin: 0 auto;
+}
+
+.post-content table {
+  width: 150%;
+  margin: 0 auto;
+}
+
+section .post-content {
+  width: 150%;
+}
+
+article .post-single {
+  width: 150%
+}

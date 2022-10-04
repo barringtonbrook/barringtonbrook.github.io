@@ -1,0 +1,10 @@
+/* Place custom css here. */
+
+.post-content {
+  width: 120%;
+}
+
+.post-content table {
+  width: 120%;
+  margin: 0 auto;
+}

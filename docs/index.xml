@@ -17,17 +17,6 @@ We are currently using the scrum framework to organise and manage our work. That
     </item>
     
     <item>
-      <title>Decomissioning AWS services</title>
-      <link>https://barringtonbrook.github.io/posts/decomissioning_resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/decomissioning_resources/</guid>
-      <description>produces this
-Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
-After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them.</description>
-    </item>
-    
-    <item>
       <title>DevOps presentation</title>
       <link>https://barringtonbrook.github.io/posts/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,7 +32,7 @@ The Structure of the Presentation From the beginning I suggested that it might b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/ksbs/</guid>
-      <description>Knowledge K3 How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. K6 A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming. K9 Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce constraints on delivery.</description>
+      <description>Knowledge KSB Description Tickets K3 How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. - K6 A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming. - K9 Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce constraints on delivery.</description>
     </item>
     
   </channel>

@@ -1,0 +1,19 @@
+/* Place custom css here. */
+
+
+.main style {
+  margin-right: 20px;
+  margin-left: 100px;
+}
+
+/* .margin {
+  min-width: 1000px;
+} */
+
+.article .post-single {
+  width: auto;
+}
+
+table {
+  width: 150%
+}

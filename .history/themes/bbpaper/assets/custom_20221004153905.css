@@ -1,0 +1,7 @@
+/* Place custom css here. */
+
+.post-content {
+  width: 115rem;
+  align-items: center;
+  justify-content: center;
+}

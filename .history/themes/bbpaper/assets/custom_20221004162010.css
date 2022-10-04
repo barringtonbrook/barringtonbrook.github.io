@@ -1,0 +1,13 @@
+/* Place custom css here. */
+
+.main-content-wrap {
+  max-width: 6000px;
+}
+
+.content {
+  max-width: 7000px;
+}
+
+.margin {
+  min-width: 100px;
+}
