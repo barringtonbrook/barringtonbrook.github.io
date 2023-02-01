@@ -25,7 +25,7 @@ layout: "ksbs"
 | - | - | - |
 | **[S1](../tags/s1)** | **Communicate credibly with technical and non-technical people at all levels, using a range of methods; e.g. ‘Show and Tell’ and ‘Demonstrations’.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** |
 | **S2** | Work within different organisational cultures with both internal and external parties | - |
-| **[S4](../tags/s4)** | Initiate and facilitate knowledge sharing and technical collaboration | **[Describe It!](../posts/describe-it/)** |
+| **S4** | Initiate and facilitate knowledge sharing and technical collaboration | - |
 | **S8** | Work in agile, multi-disciplinary delivery teams, taking a flexible, collaborative and pragmatic approach to delivering tasks. | - |
 | **[S13](../tags/s13)** | Engage in productive pair/mob programming. | **[AMI refresh automation project](../posts/ami-refresh/)**|
 | **S16** | Invest in continuous learning, both your own development and others, ensuring learning activities dovetail with changing job requirements. Keep up with cutting edge. | -|
