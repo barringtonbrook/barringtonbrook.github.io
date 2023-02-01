@@ -7,14 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://barringtonbrook.github.io/tags/k20/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Decomissioning AWS services</title>
-      <link>https://barringtonbrook.github.io/posts/decomissioning_resources/</link>
+      <title>AMI refresh automation project</title>
+      <link>https://barringtonbrook.github.io/posts/ami-refresh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://barringtonbrook.github.io/posts/decomissioning_resources/</guid>
-      <description>produces this
-Introduction At the end of May we were tasked with decommisioning resources on the legacy AWS accounts. Not only this but to create a documented and repeatable procedure.
-After a discussion with the tech lead we decided to use a certain set of buckets to test our procedure. Me and the other apprentice decided to seperate concerns. He would focus on programmatically removing the buckets and I would work on a way of migrating the important data kept within them.</description>
+      <guid>https://barringtonbrook.github.io/posts/ami-refresh/</guid>
+      <description>Introduction Date: 12 Dec 22
+How did we get the ticket? What was the situation? The team Conclusion </description>
     </item>
     
   </channel>
