@@ -13,4 +13,8 @@ tags: [S13, S21, K20]
 
 ### The team
 
+### The work
+
+![](../ami-refresh/terraform.png)
+
 ## Conclusion
