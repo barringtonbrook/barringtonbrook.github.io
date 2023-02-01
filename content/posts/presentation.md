@@ -24,7 +24,7 @@ It was impressed upon us that not only should we highlight our day-to-day work b
 
 ### The team
 
-The work was divided between me and another apprentice and consult other team members for guidance. [^b1]
+The work was divided between me and another apprentice and consult other team members for guidance. **[B1](/tags/b1)**
 
 ![](../presentation/powerpoint.png)
 
@@ -60,7 +60,7 @@ After the presentation, this approach was particularly lauded as it managed to p
 
 ## Feedback
 
-After we had a rough idea of the layout of the presentation, we approached several other staff members within and without the team to get feedback from a range of perspectives.  [^k19]
+After we had a rough idea of the layout of the presentation, we approached several other staff members within and without the team to get feedback from a range of perspectives. **[K19](/tags/k19)**
 
 Before we had any concrete ideas about the presentation we met with one of the members of our own team to discuss what should be included.
 He went through his ideas of DevOps and how that tied in reality to what our team did.
@@ -78,13 +78,9 @@ This not only communicated the content better but also made the presentation eas
 
 So, in the presentation, I suggested where we have one slide where I roughly explain the meaning of certain terms using one or two sentences to give the audience to grab onto before more in depth explanations.
 This was to great effect later as people remarked how easy the presentation was to follow and how it illuminated aspects of DevOps that they had never fully understood.
-[^s1]
+**[S1](/tags/s1)**
 
 ## Conclusion
 
 At the end we received good feedback on the content, narrative as well as the delivery of the presentation.
 The result was that the portfolio team had greater insight into the workings of Team Hack and in future will have a greater ability to see the relevance of our work and how it affects theirs.
-
-[^s1]: Here is an example of **[S1](/tags/s1)** in that I communicated with non-technical and semi-technical people about the work we do.
-[^b1]: The collaboration between myself with the other apprentice as well as the various people we consulted on different aspects of the presentation demonstrate **[B1](/tags/b1)**.
-[^k19]: **[K19](/tags/k19)** is demonstrated here.

@@ -9,6 +9,12 @@ We are the DevOps team that build and support infrastructure for products and pr
 
 We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
 
+## My Journey to becoming an apprentice
+
+In 2021, I had been working with one organisation for a number of years and felt like I wanted a change.
+I had an interest in computers had written some simple programs. I considered that this interest might offer a potential candidate for the career change I had been searching for.
+After looking on the internet, I came across this apprenticeship and I thought that being able to learn while studying would be an invaluable opportunity, so I promptly applied.
+
 ## Universal Credit
 
 ## DWP digital
