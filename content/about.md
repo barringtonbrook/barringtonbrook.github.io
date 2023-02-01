@@ -26,6 +26,7 @@ the DWP UK’s largest public service department and thus manages one of the mos
 This website is divided into three sections. This is the about section. The home section will take you to a list of projects I have worked on with the relevent KSBs linked underneath.
 If you click on any of these it will take you to a page that shows all projecs with the same KSBs.
 If you click on the KSBs link at the top, you will see a list of all KSBs that display all of the projects that demonstrate their requirements.
+Each stage is on its own branch in the github repo for **[this site](https://github.com/barringtonbrook/barringtonbrook.github.io)**
 
 ## Training completed
 
