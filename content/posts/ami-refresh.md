@@ -1,6 +1,6 @@
 ---
 title: "AMI refresh automation project"
-tags: [S21, K20]
+tags: [S13, S21, K20]
 ---
 
 ## Introduction
