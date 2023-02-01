@@ -23,8 +23,7 @@ We are currently using the scrum framework to organise and manage our work. That
       
       <guid>https://barringtonbrook.github.io/posts/ami-refresh/</guid>
       <description>Introduction Date: 12 Dec 22
-Every 2 weeks a new Amazon Machine Image (AMI) is generated and when this happens we need to update all of our instances with this new AMI. This can be quite a time consuming job so it was decided in a team day towards the end of the year that we would find a way to automate it.
-How did we get the ticket? After a brainstorming/whiteboarding session discussing what we wanted out of this piece of work, it was decided that the work would be carried about by me, another apprentice and a fast streamer.</description>
+When a new Amazon Machine Image (AMI) is generated we need to update all of our instances with this new AMI. This can be quite a time consuming job so it was decided in a team day towards the end of the year that we would find a way to automate it. The first ticket for this work was to design and implement a process for refreshing auto-scaling groups in AWS.</description>
     </item>
     
     <item>
