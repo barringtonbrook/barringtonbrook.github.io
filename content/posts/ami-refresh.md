@@ -16,6 +16,8 @@ The first ticket for this work was to design and implement a process for refresh
 
 After a brainstorming/whiteboarding session discussing what we wanted out of this piece of work, it was decided that the work would be carried about by me, another apprentice and a fast streamer. **[S21](/tags/s21)**
 
+![](../ami-refresh/whiteboard.png)
+
 ### Our way of working
 
 The work was coordinated through a mix of meetings slack channels, group calls and messages. We paired and shared information between each other to form an effective team and complete the work using our collective skills.  **[S4](/tags/s4)**  **[S13](/tags/s13)**  **[K20](/tags/k20)**
