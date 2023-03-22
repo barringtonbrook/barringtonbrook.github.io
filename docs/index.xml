@@ -27,6 +27,15 @@ When a new Amazon Machine Image (AMI) is generated we need to update all of our 
     </item>
     
     <item>
+      <title>AWS RDS support request</title>
+      <link>https://barringtonbrook.github.io/posts/aws-support-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/aws-support-request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DevOps Presentation for Portfolio Team</title>
       <link>https://barringtonbrook.github.io/posts/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,10 +77,10 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
     
     <item>
       <title>Traefik Pipeline Consolidation</title>
-      <link>https://barringtonbrook.github.io/posts/presentation/traefik-pipeline-consolidation/</link>
+      <link>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://barringtonbrook.github.io/posts/presentation/traefik-pipeline-consolidation/</guid>
+      <guid>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</guid>
       <description>Introduction It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which (K24).</description>
     </item>
     

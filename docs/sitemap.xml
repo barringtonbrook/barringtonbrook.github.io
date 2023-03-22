@@ -6,6 +6,8 @@
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/ami-refresh/</loc>
   </url><url>
+    <loc>https://barringtonbrook.github.io/posts/aws-support-request/</loc>
+  </url><url>
     <loc>https://barringtonbrook.github.io/tags/b1/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/b2/</loc>
@@ -44,6 +46,8 @@
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/s16/</loc>
   </url><url>
+    <loc>https://barringtonbrook.github.io/tags/s2/</loc>
+  </url><url>
     <loc>https://barringtonbrook.github.io/tags/s21/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/s4/</loc>
@@ -54,6 +58,6 @@
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/posts/presentation/traefik-pipeline-consolidation/</loc>
+    <loc>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</loc>
   </url>
 </urlset>
