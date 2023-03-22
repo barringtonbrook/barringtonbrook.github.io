@@ -1,14 +1,14 @@
 ---
 title: "About"
-tags: [K9, K18, K22, K23, S2, S8, B4]
+tags: [K18, K22, K23, S8, B4]
 ---
 
 ## My Team
 
 I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal Credit, DWP digital.
-We are the DevOps team that build and support infrastructure for products and projects on Burbank and UC platforms. We work closely with the Feature Teams in Leeds and Manchester.
+We are the DevOps team that build and support infrastructure for products and projects on Burbank and UC platforms. We work closely with the Feature Teams in Leeds and Manchester (**K18**).
 
-We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
+We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives (**S8**).
 
 ## My Journey to becoming an apprentice
 
@@ -31,4 +31,4 @@ Each stage is on its own branch in the github repo for **[this site.](https://gi
 
 ## Training completed
 
-In line with Health and Safety legislation, I completed a short online course that instructed me how to to minimise risk to my person as much as possible in the course of my duties.
+In line with Health and Safety legislation, I completed a short online course that instructed me how to to minimise risk to my person as much as possible in the course of my duties (**K22**).
