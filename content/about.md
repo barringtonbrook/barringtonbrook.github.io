@@ -1,6 +1,6 @@
 ---
 title: "About"
-tags: [K9, K18, K22,K23 S2, S8 B4]
+tags: [K9, K18, K22, K23, S2, S8, B4]
 ---
 
 ## My Team
