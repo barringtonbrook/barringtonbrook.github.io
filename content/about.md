@@ -20,7 +20,7 @@ After looking on the internet, I came across this apprenticeship and I thought t
 
 ## DWP digital
 
-the DWP UK’s largest public service department and thus manages one of the most complex IT systems in western europe with 7.35 million benefit claims each year, paying £165 billion in benefits and pensions.
+The DWP is UK’s largest public service department and thus manages one of the most complex IT systems in western europe with 7.35 million benefit claims each year, paying £165 billion in benefits and pensions.
 
 ## How to navigate this portfolio
 

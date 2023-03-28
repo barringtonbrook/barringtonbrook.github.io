@@ -7,3 +7,5 @@ tags: [S2]
 
 
 ![](../AWS-support-request/AWS-support-request.png)
+
+ **[S2](/tags/s2)**.

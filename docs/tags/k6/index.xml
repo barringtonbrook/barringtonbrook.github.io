@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K6 on Barrington Brook: Portfolio</title>
+    <link>https://barringtonbrook.github.io/tags/k6/</link>
+    <description>Recent content in K6 on Barrington Brook: Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://barringtonbrook.github.io/tags/k6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem Solving Techniques</title>
+      <link>https://barringtonbrook.github.io/posts/problem-solving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/problem-solving/</guid>
+      <description>Introduction Date: 28 Mar 23
+K20</description>
+    </item>
+    
+  </channel>
+</rss>
