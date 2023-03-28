@@ -57,6 +57,7 @@ How did we get the ticket? The portfolio team had been conducting a series of me
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>README automation demonstration</title>
       <link>https://barringtonbrook.github.io/posts/readme-presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,6 +65,15 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       <guid>https://barringtonbrook.github.io/posts/readme-presentation/</guid>
       <description>Introduction In our repositories the READMEs were often not helpful and contained outdated information. Furthermore, no uniform style was applied. My task was to design and implement an automated process that would remedy this issue.
 My solution I decided that I would create a Gitlab CI pipeline to collate information from a number of sources and then create a README and push to the same repository from the Gitlab runner.</description>
+=======
+      <title>Peer Review</title>
+      <link>https://barringtonbrook.github.io/posts/peer-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/peer-review/</guid>
+      <description>Introduction Date: 28 Mar 23
+This is an example of a comment: </description>
+>>>>>>> d37eff7 (feat: modify content)
     </item>
     
     <item>
@@ -72,7 +82,9 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/posts/self-directed-learning/</guid>
-      <description>Introduction Date: 1 May 22</description>
+      <description>Introduction Date: 21 March 23
+The course below is one I completed. S16 B2
+I also use Pluralsight to maintain and awareness and prepare for certification. K21</description>
     </item>
     
     <item>
@@ -81,7 +93,7 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</guid>
-      <description>Introduction It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which (K24).</description>
+      <description>Introduction It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which K24.</description>
     </item>
     
   </channel>
