@@ -1,6 +1,6 @@
 ---
 title: "Self directed learning"
-tags: [S16, B2, K25]
+tags: [K25, S16, B2]
 ---
 
 ## Introduction

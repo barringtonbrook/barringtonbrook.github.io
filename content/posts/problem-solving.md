@@ -6,4 +6,4 @@ tags: [K6]
 
 ***Date:** 28 Mar 23*
 
- **[K20](/tags/k6)**
+ **[K6](/tags/k6)**

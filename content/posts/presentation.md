@@ -1,6 +1,6 @@
 ---
 title: "DevOps Presentation for Portfolio Team"
-tags: [S1, K19, B1]
+tags: [K19, S1, B1]
 ---
 
 ## Introduction
