@@ -9,7 +9,7 @@ tags: [S1, K19, B1]
 
 We were tasked with presenting the work of the Hack team as well as an introduction to DevOps practices and technologies more generally to a non-technical audience.
 
-The Audience was a portfolio team whose interest included are work but who didn't necessarily have any technical background.
+The Audience was a portfolio team whose interests included our work but who didn't necessarily have any technical background.
 
 ### How did we get the ticket?
 
@@ -24,7 +24,7 @@ It was impressed upon us that not only should we highlight our day-to-day work b
 
 ### The team
 
-The work was divided between me and another apprentice and consult other team members for guidance. **[B1](/tags/b1)**
+The work was divided between me and another apprentice and we consulted other team members for guidance. **[B1](/tags/b1)**
 
 ![](../presentation/powerpoint.png)
 
@@ -60,7 +60,11 @@ After the presentation, this approach was particularly lauded as it managed to p
 
 ## Feedback
 
-After we had a rough idea of the layout of the presentation, we approached several other staff members within and without the team to get feedback from a range of perspectives. **[K19](/tags/k19)**
+After we had a rough idea of the layout of the presentation, we approached several other staff members within and without the team to get feedback from a range of perspectives.
+There are several appropriate ways of communicating when trying to get input from people and they have different advantages.
+We chiefly used two different methods, meeting in person (with a smart screen) and meeting on Microsoft teams.
+This was most appropriate for our needs because our presentation relied on a visual aide so we could discuss how the information related to what was on screen.
+The visual aide we decided was necesary because since our audience was non technical it might help to have some of the names of the concepts that we were using on screen so they could take notes. **[K19](/tags/k19)**
 
 Before we had any concrete ideas about the presentation we met with one of the members of our own team to discuss what should be included.
 He went through his ideas of DevOps and how that tied in reality to what our team did.

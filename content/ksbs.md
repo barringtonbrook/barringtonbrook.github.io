@@ -37,4 +37,4 @@ layout: "ksbs"
 | - | - | - |
 | **[B1](../tags/b1)** | **Exhibits enthusiasm, openness and an aptitude for working as part of a collaborative community; e.g. sharing best practice, pairing with team members, learning from others and engaging in peer review practices.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** |
 | **B2** | Invests time and effort in their own development, recognising that technology evolves at a rapid rate. | -|
-| **B4** | Is inclusive, professional and maintains a blameless culture. | -|
+| **B4** | Is inclusive, professional and maintains a blameless culture. | - |

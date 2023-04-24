@@ -14,8 +14,19 @@
       <guid>https://barringtonbrook.github.io/posts/presentation/</guid>
       <description>Introduction Date: 27 Jul 22
 We were tasked with presenting the work of the Hack team as well as an introduction to DevOps practices and technologies more generally to a non-technical audience.
-The Audience was a portfolio team whose interest included are work but who didn&amp;rsquo;t necessarily have any technical background.
+The Audience was a portfolio team whose interests included our work but who didn&amp;rsquo;t necessarily have any technical background.
 How did we get the ticket? The portfolio team had been conducting a series of meetings where a representative from another team and explained in layman’s terms how they worked and what it was that they were concerned with.</description>
+    </item>
+    
+    <item>
+      <title>README automation demonstration</title>
+      <link>https://barringtonbrook.github.io/posts/readme-presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/readme-presentation/</guid>
+      <description>Introduction In our repositories the READMEs were often not helpful and contained outdated information. Furthermore, no uniform style was applied. My task was to design and implement an automated process that would remedy this issue.
+My solution I decided that I would create a Gitlab CI pipeline to collate information from a number of sources and then create a README and push to the same repository.
+Presenting to the team I had the opportunity to present my solution to the team and I decided the easiest way to get across how it was organised and how it worked was to go through the documentation I had written describing the function of each job and then doing a demonstration of the pipeline.</description>
     </item>
     
   </channel>
