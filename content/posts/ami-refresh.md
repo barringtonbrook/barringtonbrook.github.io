@@ -37,7 +37,7 @@ He had a problem keeping track with variables which meant the logic of his lambd
 I suggested the use of python dictionaries and walked him through how that would work on his lambda.
 This pairing technique should be used sparingly because it leads to incomplete understanding on the part of the driver, but given the simple circumstances it was appropriate to use so my team mate could become unblocked and do some reading later on dictionaries to solidify his understanding. **[K20](/tags/k20)** **[S13](/tags/s13)**  **[S4](/tags/s4)**
 
-We would also peer review each others work before merging changes to the main branch. **[B1](/tags/b1)**
+We would also peer review each others work before merging changes to the main branch. This is an important step to take so we can ensure quality of work and also facilitate knowledge sharing within the team. **[B1](/tags/b1)**
 
 ### The work
 

@@ -35,8 +35,7 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       
       <guid>https://barringtonbrook.github.io/posts/readme-presentation/</guid>
       <description>Introduction In our repositories the READMEs were often not helpful and contained outdated information. Furthermore, no uniform style was applied. My task was to design and implement an automated process that would remedy this issue.
-My solution I decided that I would create a Gitlab CI pipeline to collate information from a number of sources and then create a README and push to the same repository.
-Presenting to the team I had the opportunity to present my solution to the team and I decided the easiest way to get across how it was organised and how it worked was to go through the documentation I had written describing the function of each job and then doing a demonstration of the pipeline.</description>
+My solution I decided that I would create a Gitlab CI pipeline to collate information from a number of sources and then create a README and push to the same repository from the Gitlab runner.</description>
     </item>
     
   </channel>

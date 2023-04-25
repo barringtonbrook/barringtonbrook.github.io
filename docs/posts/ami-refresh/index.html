@@ -81,7 +81,7 @@ When a new Amazon Machine Image (AMI) is generated we need to update all of our 
 <meta itemprop="description" content="Introduction Date: 12 Dec 22
 When a new Amazon Machine Image (AMI) is generated we need to update all of our instances with this new AMI. This can be quite a time consuming job so it was decided in a team day towards the end of the year that we would find a way to automate it. The first ticket for this work was to design and implement a process for refreshing auto-scaling groups in AWS.">
 
-<meta itemprop="wordCount" content="771">
+<meta itemprop="wordCount" content="793">
 <meta itemprop="keywords" content="S4,S13,S21,K9,K20,B1," />
   
   <meta name="twitter:card" content="summary"/>
@@ -218,7 +218,7 @@ To give an example, when the other apprentice on the team was having a problem w
 He had a problem keeping track with variables which meant the logic of his lambda didn&rsquo;t do what he intended.
 I suggested the use of python dictionaries and walked him through how that would work on his lambda.
 This pairing technique should be used sparingly because it leads to incomplete understanding on the part of the driver, but given the simple circumstances it was appropriate to use so my team mate could become unblocked and do some reading later on dictionaries to solidify his understanding. <strong><a href="/tags/k20">K20</a></strong> <strong><a href="/tags/s13">S13</a></strong>  <strong><a href="/tags/s4">S4</a></strong></p>
-<p>We would also peer review each others work before merging changes to the main branch. <strong><a href="/tags/b1">B1</a></strong></p>
+<p>We would also peer review each others work before merging changes to the main branch. This is an important step to take so we can ensure quality of work and also facilitate knowledge sharing within the team. <strong><a href="/tags/b1">B1</a></strong></p>
 <h3 id="the-work">The work</h3>
 <p>We initially considered using Gitlab pipelines but the security team had not had chance to fully review Gitlab CI/CD as a solution so we had to consider other possibilities.
 The security team is charged with ensuring all the software/technologies we use meet acceptable standards so they must approve all new technologies before we can use them. This constrains our delivery because we often may find tools that can facilitate or increase our team efficiency but we have to wait for approval before moving forward.
