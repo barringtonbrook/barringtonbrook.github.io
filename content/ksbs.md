@@ -6,16 +6,16 @@ layout: "ksbs"
 
 | KSB | Description| Tickets |
 | - | - | - |
-| **[K3](../tags/k3)**| How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. | - |
-| **[K6](../tags/k6)** | A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming. | **[Problem Solving Techniques](../posts/problem-solving/)** |
+| **[K3](../tags/k3)**| How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. | **[About](../about/)** |
+| **[K6](../tags/k6)** | A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming. | **[Gold Standard Pipeline](../posts/gold-standard-pipeline/)**  |
 | **[K9](../tags/k9)** |  Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce constraints on delivery. |  **[AMI refresh automation project](../posts/ami-refresh/)** |
 | **[K18](../tags/k18)** | Roles within a multidisciplinary team and the interfaces with other areas of an organisation. |  **[Gold Standard Pipeline](../posts/gold-standard-pipeline/)** |
-| **[K19](../tags/k19)** | **Different methods of communication and choosing the appropriate one - e.g. face-to-face (synchronous, high bandwidth), instant messaging, email (asynchronous, low bandwidth), visualisations vs. words.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** |
+| **[K19](../tags/k19)** | **Different methods of communication and choosing the appropriate one - e.g. face-to-face (synchronous, high bandwidth), instant messaging, email (asynchronous, low bandwidth), visualisations vs. words.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** *and* **[Hashicorp Support](../posts/hashicorp-support/)** |
 | **[K20](../tags/k20)** | Pair/mob programming techniques and when to use each technique. | **[AMI refresh automation project](../posts/ami-refresh/)** |
 | **[K22](../tags/k22)** | How their occupation fits into the wider digital landscape and any current or future regulatory requirements. | **[About](../about/)**|
 | **[K23](../tags/k23)** | The importance of continual improvement within a blameless culture. |  **[Peer Review](../posts/peer-review/)** |
 | **[K24](../tags/k24)** | The difference between Software-as-a-Service (SaaS) v bespoke v enterprise tooling and how to make an informed choice that suits each use case. | **[Gold Standard Pipeline](../posts/gold-standard-pipeline/)** |
-| **[K25](../tags/k25)** | Maintain an awareness of cloud certification requirements. | **[Self Directed Learning](../posts/self-directed-learning/)** |
+| **[K25](../tags/k25)** | Maintain an awareness of cloud certification requirements. | **[Training](../posts/training/)** |
 
 ## Skills
 
@@ -23,10 +23,10 @@ layout: "ksbs"
 | - | - | - |
 | **[S1](../tags/s1)** | **Communicate credibly with technical and non-technical people at all levels, using a range of methods; e.g. ‘Show and Tell’ and ‘Demonstrations’.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** |
 | **[S2](../tags/s2)** | Work within different organisational cultures with both internal and external parties | **[Hashicorp Support](../posts/hashicorp-support/)** |
-| **[S4](../tags/s4)** | Initiate and facilitate knowledge sharing and technical collaboration |  **[AMI refresh automation project](../posts/ami-refresh/)** |
+| **[S4](../tags/s4)** | Initiate and facilitate knowledge sharing and technical collaboration |  **[AMI refresh automation project](../posts/ami-refresh/)** *and* **[About](../about/)** |
 | **[S8](../tags/s8)** | Work in agile, multi-disciplinary delivery teams, taking a flexible, collaborative and pragmatic approach to delivering tasks. | **[About](../about/)** |
 | **[S13](../tags/s13)** | Engage in productive pair/mob programming. | **[AMI refresh automation project](../posts/ami-refresh/)**|
-| **[S16](../tags/s16)** | Invest in continuous learning, both your own development and others, ensuring learning activities dovetail with changing job requirements. Keep up with cutting edge. | **[Self Directed Learning](../posts/self-directed-learning/)**  |
+| **[S16](../tags/s16)** | Invest in continuous learning, both your own development and others, ensuring learning activities dovetail with changing job requirements. Keep up with cutting edge. | **[Training](../posts/training/)**  |
 | **[S21](../tags/s21)** | Application of lightweight modelling techniques, such as whiteboarding, in order to gain consensus as a team on evolving architecture. | **[AMI refresh automation project](../posts/ami-refresh/)** |
 
 ## Behaviours
@@ -34,5 +34,5 @@ layout: "ksbs"
 | KSB | Description| Tickets |
 | - | - | - |
 | **[B1](../tags/b1)** | **Exhibits enthusiasm, openness and an aptitude for working as part of a collaborative community; e.g. sharing best practice, pairing with team members, learning from others and engaging in peer review practices.** | **[DevOps Presentation for Porfolio team](../posts/presentation/)** *and*  **[AMI refresh automation project](../posts/ami-refresh/)** |
-| **[B2](../tags/b2)** | Invests time and effort in their own development, recognising that technology evolves at a rapid rate. | **[Self Directed Learning](../posts/self-directed-learning/)** |
+| **[B2](../tags/b2)** | Invests time and effort in their own development, recognising that technology evolves at a rapid rate. | **[Training](../posts/training/)** |
 | **[B4](../tags/b4)** | Is inclusive, professional and maintains a blameless culture. | **[Peer Review](../posts/peer-review/)** |

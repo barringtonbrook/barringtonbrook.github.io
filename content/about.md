@@ -1,6 +1,6 @@
 ---
 title: "About"
-tags: [K18, K22, S8]
+tags: [K18, K22, S4, S8]
 ---
 
 ## My Team
@@ -9,6 +9,8 @@ I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal 
 We are the DevOps team that build and support infrastructure for products and projects on Burbank and UC platforms. We work closely with the Feature Teams in Leeds and Manchester (**[K18](/tags/K18)**).
 
 We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives (**[S8](/tags/S8)**).
+
+We are a generally supportive team and endevour to share knowledge as much as possible. For example, a new apprentice joined the team recently and didn't have much experience in writing bash scripts so I said to him that I would assign him a ticket and pair with him on it. I was able to share, not only my knowledge of bash scripting but also my workflow and things that he could try. (**[S4](/tags/S4)**)
 
 ## My Journey to becoming an apprentice
 
@@ -28,7 +30,3 @@ This website is divided into three sections. This is the about section. The home
 If you click on any of these it will take you to a page that shows all projecs with the same KSBs.
 If you click on the KSBs link at the top, you will see a list of all KSBs that display all of the projects that demonstrate their requirements.
 Each stage is on its own branch in the github repo for **[this site.](https://github.com/barringtonbrook/barringtonbrook.github.io)**
-
-## Training completed
-
-In line with Health and Safety legislation, I completed a short online course that instructed me how to to minimise risk to my person as much as possible in the course of my duties (**[K22](/tags/K22)**).
