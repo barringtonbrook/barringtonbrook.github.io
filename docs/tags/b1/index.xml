@@ -28,15 +28,5 @@ The Audience was a portfolio team whose interests included our work but who didn
 How did we get the ticket? The portfolio team had been conducting a series of meetings where a representative from another team and explained in layman’s terms how they worked and what it was that they were concerned with.</description>
     </item>
     
-    <item>
-      <title>README automation demonstration</title>
-      <link>https://barringtonbrook.github.io/posts/readme-presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/readme-presentation/</guid>
-      <description>Introduction In our repositories the READMEs were often not helpful and contained outdated information. Furthermore, no uniform style was applied. My task was to design and implement an automated process that would remedy this issue.
-My solution I decided that I would create a Gitlab CI pipeline to collate information from a number of sources and then create a README and push to the same repository from the Gitlab runner.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "README automation demonstration"
-tags: [S1, B1]
+tags: [S1]
 ---
 
 ## Introduction
