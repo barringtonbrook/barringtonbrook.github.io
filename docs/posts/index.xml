@@ -17,16 +17,6 @@ When a new Amazon Machine Image (AMI) is generated we need to update all of our 
     </item>
     
     <item>
-      <title>AWS RDS support request</title>
-      <link>https://barringtonbrook.github.io/posts/aws-support-request/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/aws-support-request/</guid>
-      <description>Introduction Date: 21 Mar 23
-S2.</description>
-    </item>
-    
-    <item>
       <title>DevOps Presentation for Portfolio Team</title>
       <link>https://barringtonbrook.github.io/posts/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,6 +37,27 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       <description>Introduction Date: 21 Mar 23
 I gave someone access to our systems K3
 (Name Removed)</description>
+    </item>
+    
+    <item>
+      <title>Gold Standard Pipeline</title>
+      <link>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
+      <description>Introduction Date: 21 Mar 23
+It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which K24.
+K18.</description>
+    </item>
+    
+    <item>
+      <title>Hashicorp support request</title>
+      <link>https://barringtonbrook.github.io/posts/hashicorp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/hashicorp/</guid>
+      <description>Introduction Date: 21 Mar 23
+S2.</description>
     </item>
     
     <item>
@@ -88,17 +99,6 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
       <description>Introduction Date: 21 March 23
 The course below is one I completed. S16 B2
 I also use Pluralsight to maintain and awareness and prepare for certification. K25</description>
-    </item>
-    
-    <item>
-      <title>Traefik Pipeline Consolidation</title>
-      <link>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</guid>
-      <description>Introduction Date: 21 Mar 23
-It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which K24.
-K18.</description>
     </item>
     
   </channel>

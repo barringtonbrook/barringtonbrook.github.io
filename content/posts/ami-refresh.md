@@ -3,7 +3,6 @@ title: "AMI refresh automation project"
 tags: [S4, S13, S21, K9, K20, B1]
 ---
 
-
 ## Introduction
 
 ***Date:** 12 Dec 22*
@@ -31,7 +30,7 @@ But the need to communicate the changes as they occured as well as testing posti
 
 The work was coordinated through a mix of meetings slack channels, group calls and messages. We paired and shared information between each other to form an effective team and complete the work using our collective skills.
 
-There are a range of pair programming techniques we could have availed ourselves to when completing this work. Unstructured pairing,Driver-Nativator, Backseat Navigator and Mobbing. Ultimately we decided no single approach but chose the style of pairing that seemed most approriate for the task. Since we divided the responsibilities of different aspects of the work we were each an expert in some areas and a novice in others, with some overlaps.
+There are a range of pair programming techniques we could have availed ourselves to when completing this work. Unstructured pairing, Driver-Nativator, Backseat Navigator and Mobbing. Ultimately we decided no single approach but chose the style of pairing that seemed most approriate for the task. Since we divided the responsibilities of different aspects of the work we were each an expert in some areas and a novice in others, with some overlaps.
 To give an example, when the other apprentice on the team was having a problem with a lambda that posted updates to slack, we used a strong style pairing because I had more experience writing in python.
 He had a problem keeping track with variables which meant the logic of his lambda didn't do what he intended.
 I suggested the use of python dictionaries and walked him through how that would work on his lambda.

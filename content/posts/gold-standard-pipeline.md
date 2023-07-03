@@ -1,5 +1,5 @@
 ---
-title: "Traefik Pipeline Consolidation"
+title: "Gold Standard Pipeline"
 tags: [K18, K24]
 ---
 ## Introduction

@@ -6,8 +6,6 @@
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/ami-refresh/</loc>
   </url><url>
-    <loc>https://barringtonbrook.github.io/posts/aws-support-request/</loc>
-  </url><url>
     <loc>https://barringtonbrook.github.io/tags/b1/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/b2/</loc>
@@ -21,6 +19,10 @@
     <loc>https://barringtonbrook.github.io/posts/presentation/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/posts/giving-access/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</loc>
+  </url><url>
+    <loc>https://barringtonbrook.github.io/posts/hashicorp/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/k18/</loc>
   </url><url>
@@ -69,7 +71,5 @@
     <loc>https://barringtonbrook.github.io/posts/self-directed-learning/</loc>
   </url><url>
     <loc>https://barringtonbrook.github.io/tags/</loc>
-  </url><url>
-    <loc>https://barringtonbrook.github.io/posts/traefik-pipeline-consolidation/</loc>
   </url>
 </urlset>
