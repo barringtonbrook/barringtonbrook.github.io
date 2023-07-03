@@ -45,9 +45,8 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       
       <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
       <description>Introduction Date: 21 Mar 23
-It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on Gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation which K24.
-Working with delivery systems. K18.
-For this work I adhered to a Plan Do Act Check cycle to ensure I was getting the results I required.</description>
+It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
+This work involved some co-ordination with a team called delivery systems.</description>
     </item>
     
     <item>
@@ -96,9 +95,8 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
       
       <guid>https://barringtonbrook.github.io/posts/training/</guid>
       <description>Introduction Date: 21 March 23
-Training completed Think Secure: Security and Data Protection at DWP (K22, K3).
-The course below is one I completed. S16 B2
-I also use Pluralsight to maintain and awareness and prepare for certification. K25</description>
+Introduction I believe that continuous learning is very important in this role. Alongside training required by the Civil Service (e.g. health and safety, regualatory training). I also have taken several training courses as well as availed myself of online training courses that I have access to as part of my job.
+DWP training completed As can be seen below I have completed a course in data protection (Think Secure: Security and Data Protection at DWP) mandated by DWP.</description>
     </item>
     
   </channel>
