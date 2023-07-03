@@ -16,5 +16,7 @@ After some preliminary research and arranging a meeting with delivery systems, w
 
 For this work I adhered to a Plan Do Act Check cycle to ensure I was getting the results I required.
 First, I gathered information relating to the requirements and best practices, alongside what we were already doing to deploy pipelines in the team. Then I wrote up a "Gold Standard" pipeline that all (required) terraform pipelines should match. After having written this, I ran out wrote an implementation of the standard and tested it against one of repos. There were some problems, for example some of the requirements were not possible to implement, or did not exist as features on the gitlab platform so I had to go back and modify the standard with the possibilities and restrictions of the platform in mind. From then I began the PDAC cycle again.
-Affinity mapping, impact maps could have been used to plan the work, since I was carrying out most of the worl myself, in this instance I did not feel they were appropriate.
- **[K6](/tags/k6)**
+Affinity mapping, impact maps could have been used to plan the work, since I was carrying out most of the worl myself, in this instance I did not feel they were appropriate. **[K6](/tags/k6)**
+
+![](../gold-standard-pipeline/gold-standard-pipeline.png)
+(The table laying out the gold standard behviour of a deployment pipeline)
