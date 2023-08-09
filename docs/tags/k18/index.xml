@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://barringtonbrook.github.io/about/</guid>
-      <description>My Team I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal Credit, DWP digital. We are the DevOps team that build and support infrastructure for products and projects on Burbank and UC platforms. We work closely with the Feature Teams in Leeds and Manchester (K18).
-We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives (S8).</description>
+      <description>My Team I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal Credit, DWP digital. We are the DevOps team that build and support infrastructure for products and projects on HCL2 and UC platforms. Within our team, there is a delivery manager, team Lead, several seniors, one junior and four apprentices. We work closely with the feature teams in Leeds and Manchester. These teams include developers, QAs (testing engineers), delivery managers and architects.</description>
     </item>
     
     <item>
@@ -24,7 +23,7 @@ We are currently using the scrum framework to organise and manage our work. That
       <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
       <description>Introduction Date: 21 Mar 23
 It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
-This work involved some co-ordination with a team called delivery systems.</description>
+Software solutions Enterprise: A solution where software is purchased from some company and then installed on your organisations servers.</description>
     </item>
     
   </channel>

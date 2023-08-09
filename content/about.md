@@ -6,7 +6,10 @@ tags: [K18, K22, S4, S8]
 ## My Team
 
 I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal Credit, DWP digital.
-We are the DevOps team that build and support infrastructure for products and projects on Burbank and UC platforms. We work closely with the Feature Teams in Leeds and Manchester (**[K18](/tags/K18)**).
+We are the DevOps team that build and support infrastructure for products and projects on HCL2 and UC platforms.
+Within our team, there is a delivery manager, team Lead, several seniors, one junior and four apprentices.
+We work closely with the feature teams in Leeds and Manchester. These teams include developers, QAs (testing engineers), delivery managers and architects.
+(**[K18](/tags/K18)**).
 
 We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives (**[S8](/tags/S8)**).
 

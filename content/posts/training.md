@@ -1,6 +1,6 @@
 ---
 title: "Training"
-tags: [K3, K22, K25, S16, B2]
+tags: [K22, K25, S16, B2]
 ---
 
 ## Introduction
@@ -16,16 +16,20 @@ I believe that continuous learning is very important in this role. Alongside tra
 As can be seen below I have completed a course in data protection (Think Secure: Security and Data Protection at DWP) mandated by DWP.
 This course required me to learn and acquaint myself with data protection law and what my responsibilities were in this domain.
 This was a particularly important training course as we deal and could get access to a great amount of data.
- (**[K22](/tags/K22)**, **[K3](/tags/K3)**).
+ (**[K22](/tags/K22)**).
 
 ![](training.png)
 
 ## Self lead learning
 
-The course below is one I completed. It covered the basics of setting up a vault cluster as well as the basic commands and use cases for the software.  **[S16](/tags/s16)** **[B2](/tags/b2)**
+The course below is one I completed. It covered the basics of setting up a vault cluster as well as the basic commands and use cases for the software.  **[S16](/tags/s16)** **[B2](/tags/b2)**. This has been useful in my day to day role as the member of our team most proficient in vault has recently been promoted so there is a lack of Vault knowledge on the team.
 
 ![](../training/self-directed-learning.png)
 
 I also use Pluralsight to maintain and awareness and prepare for certification. The cloud practioner is the first AWS certificate that a person should do since it lays a foundation for all the others that follow, as I was told when on a course for DevOps engineering on the AWS platform.  **[K25](/tags/k25)**
+
+![](../training/devops-engineering.png)
+
+which acts as preperation for this:
 
 ![](../training/self-directed-learning-2.png)

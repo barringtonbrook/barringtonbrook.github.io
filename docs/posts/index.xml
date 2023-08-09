@@ -36,7 +36,7 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
       <description>Introduction Date: 21 Mar 23
 It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
-This work involved some co-ordination with a team called delivery systems.</description>
+Software solutions Enterprise: A solution where software is purchased from some company and then installed on your organisations servers.</description>
     </item>
     
     <item>
@@ -47,6 +47,18 @@ This work involved some co-ordination with a team called delivery systems.</desc
       <guid>https://barringtonbrook.github.io/posts/hashicorp/</guid>
       <description>Introduction Date: 21 Mar 23
 Our team provides support to a number of developer teams and every week we select one person to be the main port of call to deal with support requests. On one of my fortnights on support duty, I received a support request that required me to make a support request to Hashicorp, an external organisation that supports a number of our infrastructure tools. The request was do to a developer experiencing unexpected behaviour while using hashicorp nomad.</description>
+    </item>
+    
+    <item>
+      <title>Mongo Access Request</title>
+      <link>https://barringtonbrook.github.io/posts/mongo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barringtonbrook.github.io/posts/mongo/</guid>
+      <description>Introduction Date: 21 June 23
+Article 25 of GDPR (Data protection by design and by default) requires that we &amp;ldquo;&amp;hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&amp;rdquo;
+For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &amp;ldquo;organisations&amp;rdquo; different users have different abilities.
+Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this.</description>
     </item>
     
     <item>
