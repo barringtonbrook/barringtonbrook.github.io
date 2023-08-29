@@ -6,7 +6,7 @@ layout: "ksbs"
 
 | KSB | Description| Tickets |
 | - | - | - |
-| **[K3](../tags/k3)**| How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. | **[Mongo](../posts/mongo/)** |
+| **[K3](../tags/k3)**| How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation. | **[Mongo](../posts/mongo-db/)** |
 | **[K6](../tags/k6)** | A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming. | **[Gold Standard Pipeline](../posts/gold-standard-pipeline/)**  |
 | **[K9](../tags/k9)** |  Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce constraints on delivery. |  **[AMI refresh automation project](../posts/ami-refresh/)** |
 | **[K18](../tags/k18)** | Roles within a multidisciplinary team and the interfaces with other areas of an organisation. |  **[Gold Standard Pipeline](../posts/gold-standard-pipeline/)** |
