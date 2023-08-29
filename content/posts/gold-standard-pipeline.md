@@ -26,7 +26,6 @@ There are a number of benefits to this but mainly you are saving time spent mang
 | Low Price     | Indivually crafted solution | Lower upfront costs than bespoke |
 | Self service  | Flexible                    |                                  |
 | Customizable  | Greater scalability         |                                  |
-|               |                             |                                  |
 
 **Cons:**
 
