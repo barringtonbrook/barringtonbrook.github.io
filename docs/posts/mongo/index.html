@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  
+  <title>Mongo Access Request - Barrington Brook: Portfolio</title>
+
+  
+  
+  <meta name="description" content="Introduction Date: 21 June 23
+Article 25 of GDPR (Data protection by design and by default) requires that we &ldquo;&hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&rdquo;
+For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &ldquo;organisations&rdquo; different users have different abilities.
+Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this." />
+  <meta name="author" content="" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://barringtonbrook.github.io/app.min.css" />
+
+  
+  <link rel="preload stylesheet" as="style" href="https://barringtonbrook.github.io/an-old-hope.min.css" />
+  <script
+    defer
+    src="https://barringtonbrook.github.io/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  <link rel="preload" as="image" href="https://barringtonbrook.github.io/theme.png" />
+
+  
+
+  
+  <link rel="icon" href="https://barringtonbrook.github.io/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://barringtonbrook.github.io/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.102.0-DEV" />
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="Mongo Access Request" />
+<meta property="og:description" content="Introduction Date: 21 June 23
+Article 25 of GDPR (Data protection by design and by default) requires that we &ldquo;&hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&rdquo;
+For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &ldquo;organisations&rdquo; different users have different abilities.
+Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://barringtonbrook.github.io/posts/mongo/" /><meta property="article:section" content="posts" />
+
+
+
+
+  
+  <meta itemprop="name" content="Mongo Access Request">
+<meta itemprop="description" content="Introduction Date: 21 June 23
+Article 25 of GDPR (Data protection by design and by default) requires that we &ldquo;&hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&rdquo;
+For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &ldquo;organisations&rdquo; different users have different abilities.
+Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this.">
+
+<meta itemprop="wordCount" content="100">
+<meta itemprop="keywords" content="K3," />
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mongo Access Request"/>
+<meta name="twitter:description" content="Introduction Date: 21 June 23
+Article 25 of GDPR (Data protection by design and by default) requires that we &ldquo;&hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&rdquo;
+For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &ldquo;organisations&rdquo; different users have different abilities.
+Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this."/>
+
+  
+  
+</head>
+
+
+  <body class="not-ready" data-menu="true">
+    <header class="header">
+  
+  <p class="logo">
+    <a class="site-name" href="https://barringtonbrook.github.io/">Barrington Brook: Portfolio</a><a class="btn-dark"></a>
+  </p>
+  
+
+  <script>
+    let bodyClx = document.body.classList;
+    let btnDark = document.querySelector('.btn-dark');
+    let sysDark = window.matchMedia('(prefers-color-scheme: dark)');
+    let darkVal = localStorage.getItem('dark');
+
+    let setDark = (isDark) => {
+      bodyClx[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark ? 'yes' : 'no');
+    };
+
+    setDark(darkVal ? darkVal === 'yes' : sysDark.matches);
+    requestAnimationFrame(() => bodyClx.remove('not-ready'));
+
+    btnDark.addEventListener('click', () => setDark(!bodyClx.contains('dark')));
+    sysDark.addEventListener('change', (event) => setDark(event.matches));
+  </script>
+
+  
+  
+  <nav class="menu">
+    
+    <a class="" href="/">Home</a>
+    
+    <a class="" href="/about/">About</a>
+    
+    <a class="" href="/ksbs/">KSBs</a>
+    
+  </nav>
+  
+
+  
+</header>
+
+
+    <main class="main">
+<style>
+  .boxed {
+    border: 1px solid gray;
+    padding: 17px;
+    margin: 25px;
+    border-radius: 25px;
+    box-shadow: 2px 7px #888888;
+    transition: transform 0.7s;
+  }
+
+  .boxed:hover {
+    transform: scale(1.05) translateX(-50px);
+    background-color: #ffe655;
+
+  }
+
+  .dark .boxed:hover {
+    background-color: #d9b800;
+  }
+
+  .dark .post-tags a {
+    color: rgb(241, 241, 241);
+  }
+
+  .dark .post-tags a {
+    background-color: rgba(var(--dark), .09)
+  }
+
+  .post-tags a:hover {
+    transform: scale(1.1)
+  }
+</style>
+<article class="post-single">
+  <header class="post-title">
+    <p>
+      
+    </p>
+    <h1>Mongo Access Request</h1>
+  </header>
+  
+  
+  <div class="post-tags">
+     
+    <a href="https://barringtonbrook.github.io/tags/k3">K3</a>
+    
+  </div>
+  
+  <section class="post-content"><h2 id="introduction">Introduction</h2>
+<p><em><strong>Date:</strong> 21 June 23</em></p>
+<p>Article 25 of  GDPR (Data protection by design and by default) requires that we &ldquo;&hellip;implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose&rdquo;</p>
+<p>For example, our databases are divided by project and environment (which are called different organisations in mongo) and within these &ldquo;organisations&rdquo; different users have different abilities.</p>
+<p>Below you can see evidence of a ticket where I am granting temporary access to another organisation for a user who has sufficient security clearance and a clear use case for accessing this.</p>
+<p><img src="../mongo/mongo.png" alt=""></p>
+<p><strong><a href="/tags/k3">K3</a></strong></p>
+</section>
+
+
+
+
+  
+  
+</article>
+
+</main>
+
+    <footer class="footer">
+  <p>&copy; 2023 <a href="https://barringtonbrook.github.io/">Barrington Brook: Portfolio</a></p>
+  <p>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</p>
+  <p>
+    <a href="https://github.com/barringtonbrook/hugo-paper" rel="noopener" target="_blank">A fork of Paper 5.1</a>
+  </p>
+</footer>
+  </body>
+</html>
