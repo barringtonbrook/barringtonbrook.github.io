@@ -16,6 +16,7 @@ I believe that continuous learning is very important in this role. Alongside tra
 As can be seen below I have completed a course in data protection (Think Secure: Security and Data Protection at DWP) mandated by DWP.
 This course required me to learn and acquaint myself with data protection law and what my responsibilities were in this domain.
 This was a particularly important training course as we deal and could get access to a great amount of data.
+
  (**[K22](/tags/K22)**).
 
 ![](training.png)
@@ -29,6 +30,10 @@ The course below is one I completed. It covered the basics of setting up a vault
 I also use Pluralsight to maintain and awareness and prepare for certification. The cloud practioner is the first AWS certificate that a person should do since it lays a foundation for all the others that follow, as I was told when on a course for DevOps engineering on the AWS platform.  **[K25](/tags/k25)**
 
 ![](../training/devops-engineering.png)
+
+I also at a later date attended a course on architecting on AWS: **[K25](/tags/k25)**
+
+![](../training/architecting.png)
 
 which acts as preperation for this:
 

@@ -34,7 +34,7 @@ There are a number of benefits to this but mainly you are saving time spent mang
 | Licensing issues   | High initial costs       | Can take time to customize  |
 | Loss of control    | Time to develop solution |                             |
 
-This work involved some co-ordination with a team called Delivery systems. One of the requirements made by the security team for the shift to gitlab.com was to reduce the number of actions that the deploying role could perform. That is to say, have a custom role for each terraform repository with it sown policy and restrict the number of actions it could carry out to reduce possible attack vectors.
+This work involved some co-ordination with a team called Delivery systems. One of the requirements made by the security team for the shift to gitlab.com was to reduce the number of actions that the deploying role could perform. That is to say, have a custom role for each terraform repository with its own policy and restrict the number of actions it could carry out to reduce possible attack vectors.
 After some preliminary research and arranging a meeting with delivery systems, we decided that this would be a large task to undertake and that it would be out of the scope of this particular project, so a ticket was raised to investigate further.
 
 **[K18](/tags/k18)**.

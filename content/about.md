@@ -7,13 +7,38 @@ tags: [K18, K22, S4, S8]
 
 I am a DevOps engineer apprenctice in Hack IT and Whip IT team within Universal Credit, DWP digital.
 We are the DevOps team that build and support infrastructure for products and projects on HCL2 and UC platforms.
-Within our team, there is a delivery manager, team Lead, several seniors, one junior and four apprentices.
+Within our team, there is a delivery manager, team Lead, several seniors, one junior and four apprentices:
+
+**Delivery Manager:** Lynsey Cutt
+
+**Team Lead:** Stuart Tansley
+
+**Senior Engineers:** Kyle Oldfield , Steve Iveson, Marco Chessa, Simon Watts
+
+**Junior Engineer:** Royston Pierre-Pinnock
+
+**Apprentices:** *Me*, Ben Fielding, Tom Chisholm, Sid Rahman
+
 We work closely with the feature teams in Leeds and Manchester. These teams include developers, QAs (testing engineers), delivery managers and architects.
 (**[K18](/tags/K18)**).
 
-We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives (**[S8](/tags/S8)**).
+We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
+For example, a few weeks ago, the strategy team gave us the requirement to replace the single AWS IAM role we used to create resources in terraform with a solution adhering to the principle of least privilege.
+Our project manager and team lead then decided that this would be the focus of a two week sprint.
+We ultimately decided to have "minimal" policies corresponding to each AWS resource and then creating a role for each project that could assume the role needed to create the resources required (and nothing else).
+
+This required our team to first ascertain what actions for each resource were required by each project.
+I wrote a short script that analysed our terraform code and listed necessary actions.
+After meeting with one of the seniors, I understood that my method was a good first start but was ultimately incomplete.
+He then managed to find an existing tool that could achieve the same result in a more comprehensive manner.
+He then went on to develop a process by which we could assign these policies in configuration files that manage our gitlab repositories (where our terraform was deployed from) with the assistance of a team called delivery systems (in charge of pipelines and deployments).
+It was then the task of the rest of the team to align all of our projects to this new standard and modifying it where we found potential problems.
+
+ (**[S8](/tags/S8)**).
 
 We are a generally supportive team and endevour to share knowledge as much as possible. For example, a new apprentice joined the team recently and didn't have much experience in writing bash scripts so I said to him that I would assign him a ticket and pair with him on it. I was able to share, not only my knowledge of bash scripting but also my workflow and things that he could try. (**[S4](/tags/S4)**)
+
+![](../posts/about/sid.png)
 
 ## My Journey to becoming an apprentice
 
