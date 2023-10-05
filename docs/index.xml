@@ -47,7 +47,7 @@ How did we get the ticket? The portfolio team had been conducting a series of me
       
       <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
       <description>Introduction Date: 21 Mar 23
-It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
+It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent managing it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
 Software solutions Enterprise: A solution where software is purchased from some company and then installed on your organisations servers.</description>
     </item>
     
@@ -89,7 +89,7 @@ Below you can see evidence of a ticket where I am granting temporary access to a
       
       <guid>https://barringtonbrook.github.io/posts/peer-review/</guid>
       <description>Introduction Date: 28 Mar 23
-In our team, peer review is an important part of our development process so we can ensure that we maintain a high level of quality for the code we commit since we are continually improving our systems and make a large number of changes in a relatively short space of time. It is of paramount importance that when reviewing anothers work that we are mindful of the principles of a blameless culture.</description>
+In our team, peer review is an important part of our development process so we can ensure that we maintain a high level of quality for the code we commit since we are continually improving our systems and make a large number of changes in a relatively short space of time. It is of paramount importance that when reviewing another persons work that we are mindful of the principles of a blameless culture.</description>
     </item>
     
     <item>
@@ -109,7 +109,7 @@ My solution I decided that I would create a Gitlab CI pipeline to collate inform
       
       <guid>https://barringtonbrook.github.io/posts/training/</guid>
       <description>Introduction Date: 21 March 23
-Introduction I believe that continuous learning is very important in this role. Alongside training required by the Civil Service (e.g. health and safety, regualatory training). I also have taken several training courses as well as availed myself of online training courses that I have access to as part of my job.
+Introduction I believe that continuous learning is very important in this role. Alongside training required by the Civil Service (e.g. health and safety, regulatory training). I also have taken several training courses as well as availed myself of online training courses that I have access to as part of my job.
 DWP training completed As can be seen below I have completed a course in data protection (Think Secure: Security and Data Protection at DWP) mandated by DWP.</description>
     </item>
     

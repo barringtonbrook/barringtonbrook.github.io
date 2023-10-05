@@ -25,7 +25,7 @@ Senior Engineers: Kyle Oldfield , Steve Iveson, Marco Chessa, Simon Watts</descr
       
       <guid>https://barringtonbrook.github.io/posts/gold-standard-pipeline/</guid>
       <description>Introduction Date: 21 Mar 23
-It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent mangaging it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
+It had been decided in our organisation that we would migrate our repositories from a self-hosted gitlab instance to a SaaS solution on gitlab.com. There are a number of benefits to this but mainly you are saving time spent managing it. Having a self hosted instance can have some benefits mostly to do with customisation. K24.
 Software solutions Enterprise: A solution where software is purchased from some company and then installed on your organisations servers.</description>
     </item>
     

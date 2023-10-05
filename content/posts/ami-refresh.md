@@ -22,7 +22,7 @@ The aspect of the solution that seemed to me to require a bit of thought is comm
 Whenever a refresh occurs we must ensure that the teams responsible for the applications that run on our instances were aware of what changes were occuring and when.
 So, in my diagram I made a rough sketch detailing an idea about raising tickets, testing and notifying teams programmitacally.
 In the brainstorming session after the whiteboarding session we discussed further whether raising the tickets would be necessary or whether this would be made superfluous by having a defined process that would be run out regularly.
-But the need to communicate the changes as they occured as well as testing posting to slack (where we traditioonally posted information when running out the changes manually) was kept. **[S21](/tags/s21)**
+But the need to communicate the changes as they occurred as well as testing posting to slack (where we traditionally posted information when running out the changes manually) was kept. **[S21](/tags/s21)**
 
 ![](../ami-refresh/whiteboard.png)
 
@@ -30,7 +30,7 @@ But the need to communicate the changes as they occured as well as testing posti
 
 The work was coordinated through a mix of meetings slack channels, group calls and messages. We paired and shared information between each other to form an effective team and complete the work using our collective skills.
 
-There are a range of pair programming techniques we could have availed ourselves to when completing this work. Unstructured pairing, Driver-Nativator, Backseat Navigator and Mobbing. Ultimately we decided no single approach but chose the style of pairing that seemed most approriate for the task. Since we divided the responsibilities of different aspects of the work we were each an expert in some areas and a novice in others, with some overlaps.
+There are a range of pair programming techniques we could have availed ourselves to when completing this work. Unstructured pairing, Driver-Navigator, Backseat Navigator and Mobbing. Ultimately we decided no single approach but chose the style of pairing that seemed most appropriate for the task. Since we divided the responsibilities of different aspects of the work we were each an expert in some areas and a novice in others, with some overlaps.
 To give an example, when the other apprentice on the team was having a problem with a lambda that posted updates to slack, we used a strong style pairing because I had more experience writing in python.
 He had a problem keeping track with variables which meant the logic of his lambda didn't do what he intended.
 I suggested the use of python dictionaries and walked him through how that would work on his lambda.
@@ -51,4 +51,4 @@ I wrote some terraform to set up the necessary infrastructure for our lambda sol
 
 ## Conclusion
 
-Ultimately, this will be part of an ongoing sequence of work to further automise other neccessary updates but I am happy with the start we have made putting into place a process to go forward.
+Ultimately, this will be part of an ongoing sequence of work to further automise other necessary updates but I am happy with the start we have made putting into place a process to go forward.

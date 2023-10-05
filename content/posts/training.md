@@ -9,7 +9,7 @@ tags: [K22, K25, S16, B2]
 
 ## Introduction
 
-I believe that continuous learning is very important in this role. Alongside training required by the Civil Service (e.g. health and safety, regualatory training). I also have taken several training courses as well as availed myself of online training courses that I have access to as part of my job.
+I believe that continuous learning is very important in this role. Alongside training required by the Civil Service (e.g. health and safety, regulatory training). I also have taken several training courses as well as availed myself of online training courses that I have access to as part of my job.
 
 ## DWP training completed
 
@@ -27,7 +27,7 @@ The course below is one I completed. It covered the basics of setting up a vault
 
 ![](../training/self-directed-learning.png)
 
-I also use Pluralsight to maintain and awareness and prepare for certification. The cloud practioner is the first AWS certificate that a person should do since it lays a foundation for all the others that follow, as I was told when on a course for DevOps engineering on the AWS platform.  **[K25](/tags/k25)**
+I also use Pluralsight to maintain and awareness and prepare for certification. The cloud practitioner is the first AWS certificate that a person should do since it lays a foundation for all the others that follow, as I was told when on a course for DevOps engineering on the AWS platform.  **[K25](/tags/k25)**
 
 ![](../training/devops-engineering.png)
 
@@ -35,6 +35,6 @@ I also at a later date attended a course on architecting on AWS: **[K25](/tags/k
 
 ![](../training/architecting.png)
 
-which acts as preperation for this:
+which acts as preparation for this:
 
 ![](../training/self-directed-learning-2.png)

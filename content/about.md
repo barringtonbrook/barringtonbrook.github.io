@@ -24,7 +24,7 @@ We work closely with the feature teams in Leeds and Manchester. These teams incl
 
 We are currently using the Scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
 
-There are many benefits to this way if working especially when contrasted with a method such as Waterfall. Waterfall is linear and is focused on moving from one stage of the software development process to the next and having clear requirement from the beginning of the process. Agile methodologies (Such as Scrum) are usualy focuseed on (relatively) small, incremental and iterative changes to a code base where time is time-boxed into sprints. One benefit of this way of working is that we can be very flexible, move quickly.
+There are many benefits to this way if working especially when contrasted with a method such as Waterfall. Waterfall is linear and is focused on moving from one stage of the software development process to the next and having clear requirement from the beginning of the process. Agile methodologies (Such as Scrum) are usually focuseed on (relatively) small, incremental and iterative changes to a code base where time is time-boxed into sprints. One benefit of this way of working is that we can be very flexible, move quickly.
 One potential issue with an Agile way of working is that sometimes it can be hard to make large scale changes and applications can grow in complexity in unforeseen and undesirable ways as constant small changes are made as reactions to issues or customer requests.
 
 (**[K9](/tags/K9)**)

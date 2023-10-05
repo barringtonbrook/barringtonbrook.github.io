@@ -34,7 +34,7 @@ I suggested at the beginning of the planning session that rather than giving dis
 ## The structure of the presentation
 
 I also suggested that it might be useful to divide our presentation into two parts.
-As DevOps practices are largely the result of and reaction to prior working practices in manging IT infrastructure and Ops, I reasoned that our introduction to these practices would not make sense without the added context of what they were replacing. This would be the first part.
+As DevOps practices are largely the result of and reaction to prior working practices in managing IT infrastructure and Ops, I reasoned that our introduction to these practices would not make sense without the added context of what they were replacing. This would be the first part.
 
 Once we had introduced some context I felt that the second half should speak about what DevOps included based on advice from my line manager.
 We didn't want to just read a list of technologies and end it there, so I suggested we use mock user stories such as the one below.
@@ -64,7 +64,7 @@ After we had a rough idea of the layout of the presentation, we approached sever
 There are several appropriate ways of communicating when trying to get input from people and they have different advantages.
 We chiefly used two different methods, meeting in person (with a smart screen) and meeting on Microsoft teams.
 This was most appropriate for our needs because our presentation relied on a visual aide so we could discuss how the information related to what was on screen.
-The visual aide we decided was necesary because since our audience was non technical it might help to have some of the names of the concepts that we were using on screen so they could take notes. **[K19](/tags/k19)**
+The visual aide we decided was necessary because since our audience was non technical it might help to have some of the names of the concepts that we were using on screen so they could take notes. **[K19](/tags/k19)**
 
 Before we had any concrete ideas about the presentation we met with one of the members of our own team to discuss what should be included.
 He went through his ideas of DevOps and how that tied in reality to what our team did.
