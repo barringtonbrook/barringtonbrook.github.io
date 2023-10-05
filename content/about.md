@@ -22,7 +22,13 @@ Within our team, there is a delivery manager, team Lead, several seniors, one ju
 We work closely with the feature teams in Leeds and Manchester. These teams include developers, QAs (testing engineers), delivery managers and architects.
 (**[K18](/tags/K18)**).
 
-We are currently using the scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
+We are currently using the Scrum framework to organise and manage our work. That means we have decide on sprint tickets in week/two week blocks, have daily scrum meetings as well as retrospectives.
+
+There are many benefits to this way if working especially when contrasted with a method such as Waterfall. Waterfall is linear and is focused on moving from one stage of the software development process to the next and having clear requirement from the beginning of the process. Agile methodologies (Such as Scrum) are usualy focuseed on (relatively) small, incremental and iterative changes to a code base where time is time-boxed into sprints. One benefit of this way of working is that we can be very flexible, move quickly.
+One potential issue with an Agile way of working is that sometimes it can be hard to make large scale changes and applications can grow in complexity in unforeseen and undesirable ways as constant small changes are made as reactions to issues or customer requests.
+
+(**[K9](/tags/K9)**)
+
 For example, a few weeks ago, the strategy team gave us the requirement to replace the single AWS IAM role we used to create resources in terraform with a solution adhering to the principle of least privilege.
 Our project manager and team lead then decided that this would be the focus of a two week sprint.
 We ultimately decided to have "minimal" policies corresponding to each AWS resource and then creating a role for each project that could assume the role needed to create the resources required (and nothing else).
